@@ -32,7 +32,6 @@ export default function Listing({ listing }) {
 						</p>
 						<p>
 							{listing.address.city}, {listing.address.state}
-							{listing.datePostedString}
 						</p>
 					</div>
 				</div>
