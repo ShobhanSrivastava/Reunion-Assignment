@@ -1,0 +1,10 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F7F7FD;
+}
